@@ -1,0 +1,17 @@
+body {
+background-image: url('file:///C:/Users/st78694/Desktop/lecture4st78694/background.jpg');
+background-size: cover;
+}
+
+p, h2,h3, li {
+    margin-left: 500px;
+}
+h1 {
+	color: blue
+}
+h2 {
+	color: purple
+}
+h3 {
+	color: red
+}          
